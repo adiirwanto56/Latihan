@@ -1,0 +1,4 @@
+<?php 
+$nama = "Adi Irwanto";
+echo "Nama saya adalah : $nama";
+?>
